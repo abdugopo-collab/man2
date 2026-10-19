@@ -1,0 +1,17 @@
+{
+  "name": "ABDU DONAT",
+  "short_name": "ABDU DONAT",
+  "description": "Донат барои Free Fire",
+  "lang": "tg",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000711",
+  "theme_color": "#000711",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
